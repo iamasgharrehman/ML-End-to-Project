@@ -1,4 +1,4 @@
-# ML-End-to-Project
+# IPL_WIN_PREDICROR
 **Description**
 In this Machine Learnig project, I will make an IPL Win Predictor and implement an end to end machine learning project. The Win Predictor will take the inputs about the situation of match a will predict the percentage of winning of both teams playing as per situation of match at that time.
 
